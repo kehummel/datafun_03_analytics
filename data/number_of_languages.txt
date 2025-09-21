@@ -1,0 +1,11 @@
+Number of people by Language:
+Sindhi: 19
+Uyghur: 20
+Galician: 19
+Maltese: 20
+Sesotho sa Leboa: 20
+isiZulu: 12
+Icelandic: 16
+Hindi: 41
+Bosnian: 14
+Setswana: 16

@@ -1,0 +1,7 @@
+GDP Statistics:
+Minimum: 11502.63
+The 25th percentile: 2233880173.42
+The median or 50th percentile: 16725908148.55
+The 75th percentile: 205854212632.48
+Maximum: 105435039507024.09
+Mean: 1207379525661.76

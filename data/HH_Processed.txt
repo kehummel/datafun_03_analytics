@@ -1,0 +1,2 @@
+Occurrences of 'Urban' in column H: 20707
+Occurrences of 'Rural' in column H: 4200
